@@ -1,3 +1,4 @@
 # hello-world
-just another repository
+
+hello,everyone:
 I'm doctor Li,and want to graduate smoothly.
